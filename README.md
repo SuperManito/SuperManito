@@ -1,11 +1,15 @@
 # SuperManito 👊
 
-- 🌱 精通 `Bash Shell` 脚本编程，熟悉使用 `JavaScript/TypeScript`、`Python` 语言
+🌱 精通 `Bash Shell` 脚本编程，熟悉使用 `JavaScript/TypeScript`、`Python` 语言
 
-- 🎨 熟悉使用 `HTML/CSS` 以及前端 `Vue` 框架和 `React` 库
+🎨 熟悉使用 `HTML/CSS` 以及前端 `Vue` 框架和 `React` 库
 
-- 💎 熟悉容器虚拟化技术，Docker Hub 镜像仓库开发者，云计算从业人员
+💎 熟悉容器虚拟化技术，Docker Hub 镜像仓库开发者，云计算从业人员
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bash,js,ts,python,vue,react,tailwind,express,prisma,html,css,docker" />
+</a>
+  
 ***
 
 ## 小试牛刀 ✨
